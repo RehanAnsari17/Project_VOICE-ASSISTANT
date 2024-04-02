@@ -1,0 +1,4 @@
+FIRST     Go to college  and eat
+SECOND Eat
+THIRD Assignment.
+FOURTH Study and eat
